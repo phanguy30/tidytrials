@@ -10,19 +10,19 @@ The package makes it easy to search, retrieve, and analyze global clinical trial
 
 ClinicalTrials.gov is maintained by the U.S. National Library of Medicine and contains detailed information on hundreds of thousands of clinical studies worldwide, including:
 
-Trial titles and descriptions
+- Trial titles and descriptions
 
-Medical conditions and interventions
+- Medical conditions and interventions
 
-Study phases and designs
+- Study phases and designs
 
-Recruitment status
+- Recruitment status
 
-Enrollment numbers
+- Enrollment numbers
 
-Locations and sponsors
+- Locations and sponsors
 
-Start and completion dates
+- Start and completion dates
 
 The goal of this project is to build a clean API wrapper that allows researchers, students, and analysts to easily explore and analyze this data directly from R.
 
