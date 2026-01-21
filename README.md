@@ -48,10 +48,6 @@ Functions to retrieve detailed information for specific trials.
 
 Retrieve full metadata for a single clinical trial using its NCT identifier.
 
-`ct_get_studies(nct_ids)`
-
-Retrieve multiple trials at once.
-
 
 ## 3. Metadata & Field Discovery
 
@@ -60,9 +56,6 @@ Functions to explore what data fields are available in the API.
 `ct_metadata()`
 
 List all available study fields and their definitions.
-
-`ct_version()`
-Return API version and schema information.
 
 
 ## 4. Database Statistics
